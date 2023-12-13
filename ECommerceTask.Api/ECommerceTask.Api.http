@@ -1,0 +1,6 @@
+@ECommerceTask.Api_HostAddress = http://localhost:5028
+
+GET {{ECommerceTask.Api_HostAddress}}/
+Accept: application/json
+
+###
